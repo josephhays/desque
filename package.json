@@ -1,0 +1,14 @@
+{
+  "name": "Desque",
+  "version": "0.0.0-a",
+  "description": "Unofficial cross-platform Google Desktop for a Chrome OS-ex esqueperience.",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/josephhays/desque.git"
+  },
+  "author": "Joseph William Hays",
+  "license": "BSD-2-Clause"
+}
